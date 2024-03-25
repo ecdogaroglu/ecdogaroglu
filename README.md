@@ -19,4 +19,4 @@ My start to code has been rather unorthodox, where I took Interactive Arts & Alg
 
 Later, during my professional life, I have utilized the power of automation and natural language processing to take the game to the next level.
 
-My latest projects include computational adaptation of game theoretical models with a high focus on good software engineering practices and reproducibility.
+My latest projects include computational adaptation of game theoretical models with a high focus on effective software engineering practices and reproducibility.
