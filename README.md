@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ecdogaroglu/ecdogaroglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I had a rather unorthodox start to coding. After being mesmerized by data sculptures of Refik Anadol, I had to learn the technology behind; which led me to take Interactive Arts & Algorithmic Design classes during my bachelor's. There I became accustomed to Java based Processing and Python based Touchdesigner softwares, where I built a graphical real-time tuner that can identify multiple frequencies in sound using Fourier transformation.
+
+Later, during my professional life, I have utilized the power of automation and natural language processing to take the game to the next level.
+
+My latest projects include computational adaptation of game theoretical models with a high focus on good software engineering practices and reproducibility.
