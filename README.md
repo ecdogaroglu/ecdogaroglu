@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I started coding with Interactive Arts & Algorithmic Design classes during my bachelor's, after being mesmerized by the data sculptures of Refik Anadol. There, I became accustomed to software like Processing (Java based) and Touchdesigner (Python based) and built a graphical real-time tuner that can identify multiple frequencies in sound using Fourier transformation.
 
-Later, during my professional life, I have utilized the power of automation and natural language processing to take the game to the next level.
+During my professional life, I have utilized the power of automation and natural language processing to take the game to the next level.
 
 My latest projects include computational adaptation of game theoretical models with a high focus on effective software engineering practices and reproducibility.
