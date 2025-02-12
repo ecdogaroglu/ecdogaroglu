@@ -15,4 +15,4 @@ Here, are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here I share my research utilitizing game theory, stochastic processes, dynamic programming, graph theory, reinforcement learning and neural networks. Currently, I am working on my thesis titled "Social Learning via Multi Agent Deep Reinforcement Learning" to provide solutions for microeconomic theory models with the use of machine learning.
+I share my research utilitizing game theory, stochastic processes, dynamic programming, graph theory, reinforcement learning and neural networks. Currently, I am working on my thesis titled "Social Learning via Multi Agent Deep Reinforcement Learning" to provide solutions for microeconomic theory models with the use of machine learning.
